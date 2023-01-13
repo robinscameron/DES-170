@@ -8,7 +8,7 @@
         font-display: swap;
      }
     
-html {background-color:	#DFF8EB }
+html {background-color:	#f8f6df }
 
 body {
   font-family: 'Neuehaasgroteskregular', Arial, sans-serif;
@@ -35,13 +35,13 @@ h2 {
 
 .links {
   margin-top: 200px;
-  color:#FF6333
+  color:#33b1ff
   
 }
-a:link { color:#FF6333; }
+a:link { color:#33b1ff; }
 
 a:visited {
-  color:#FF6333;
+  color:#33b1ff;
 }
 
 
